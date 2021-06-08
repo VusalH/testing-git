@@ -1,11 +1,11 @@
 body {
   margin: 0;
   padding: 0;
-  background: red;
+  background: green;
   box-sizing: border-box;
 }
 h1 {
-  color: white;
+  color: blue;
   text-align: center;
   text-transform: uppercase;
 }
